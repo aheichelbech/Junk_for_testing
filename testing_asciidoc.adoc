@@ -36,6 +36,7 @@ You can use Cloudera Deploy as your entrypoint for getting started with CDP. The
 
 Cloudera-Deploy bundles nearly all the software dependencies you need into a convenient Docker Container, so first you will need to get the latest version of **Docker Engine**.
 
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
 * https://docs.docker.com/docker-for-windows/install/[For Windows^]
 * https://docs.docker.com/docker-for-mac/install/[For Macs,window=_blank]
 * Linux users, use your package manager.
